@@ -2,6 +2,8 @@
 This project showcases mathematical modeling, 3D graphics, and computational physics, making it a powerful portfolio piece for a computer science graduate.
 Real-Time 3D N-Body Gravity Simulator (Three.js) 🪐
 
+<img width="562" height="480" alt="image" src="https://github.com/user-attachments/assets/8260e56c-26f5-44b1-826e-3f4fe4bc5041" />
+
 Overview and Project Goal
 
 This project is a high-performance, real-time 3D simulation of the N-Body Problem—a classical problem in physics and computational science. It demonstrates the gravitational interaction of multiple masses (planets, stars) in a 3D space, showcasing advanced expertise in:
